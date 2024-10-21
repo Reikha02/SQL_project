@@ -28,12 +28,4 @@ Po dokončení analýzy doporučujeme podpůrné tabulky odstranit, aby nepřek�
 ```bash
    DROP TABLE t_michaela_project_food_prices, t_michaela_project_salary;
 
-## Průvodní dokumentace k projektu
-Pro lepší porozumění analýze a odpovědím na výzkumné otázky je k dispozici průvodní dokument obsahující:
-
-- Popis výzkumných otázek.
-- Interpretace odpovědí na základě analyzovaných dat.
-- Doplňkové zajímavosti a poznatky vycházející z výsledků analýzy.
-
-Jednotlivé skripty, které zodpovídají konkrétní výzkumné otázky, lze nalézt v souboru `Questions_scripts.sql`. Skripta jsou zde oddělená a jasně popsána, aby byla přehledná a snadno použitelná.
 
