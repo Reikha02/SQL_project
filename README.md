@@ -24,7 +24,7 @@ Po vytvoření podpůrných tabulek následuje tvorba dvou hlavních tabulek, ve
 Skripta pro vytvoření těchto hlavních tabulek jsou také dostupná v souboru `Tabs_scripts.sql`.
 
 ### Krok 3: Odstranění podpůrných tabulek
-Po dokončení analýzy doporučujeme podpůrné tabulky odstranit, aby nepřekážely v databázi.
+Po dokončení analýzy doporučujeme podpůrné tabulky odstranit, aby nepřekážely v databázi. Pro jejich odstranění můžete využít příkaz uvedený níže.
    
    ```bash
    DROP TABLE t_michaela_project_food_prices, t_michaela_project_salary;
